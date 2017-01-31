@@ -1,0 +1,13 @@
+.svn
+.idea
+.log
+.iml
+**/target
+*/bin
+author
+**/.project
+**/.settings/
+**/.classpath
+**/*.iml
+**/.DS_Store
+.metadata/
